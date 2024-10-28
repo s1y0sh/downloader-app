@@ -1,18 +1,19 @@
-# اپلیکیشن دانلودر
+# Downloader Application
 
-این پروژه یک اپلیکیشن دانلودر ساده است که با استفاده از React ساخته شده است.
+This project is a simple downloader application built using React.
 
-## پیش‌نیازها
+## Prerequisites
 
-قبل از اجرای این پروژه، از نصب موارد زیر روی سیستم خود مطمئن شوید:
+Before running this project, ensure you have the following installed on your system:
 
-- [Node.js](https://nodejs.org/) (نسخه ۱۴ یا بالاتر)
-- [npm](https://www.npmjs.com/) (همراه با Node.js نصب می‌شود)
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (installs automatically with Node.js)
 
-## مراحل نصب و راه‌اندازی
+## Installation and Setup Steps
 
-برای راه‌اندازی پروژه، مراحل زیر را دنبال کنید:
+To set up the project, follow these steps:
 
-1. **کلون یا دانلود پروژه**: ابتدا باید پروژه را از گیت‌هاب کلون کنید یا به صورت زیپ دانلود کرده و سپس از حالت فشرده خارج کنید.
+1. **Clone or Download the Project**: First, clone the project from GitHub or download it as a ZIP file and extract it.
+
    ```bash
    git clone https://github.com/s1y0sh/downloader-app.git
